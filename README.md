@@ -63,3 +63,20 @@ The key findings of this paper can be summarized as follows:
 • (iii) Enhances prediction accuracy by incorporating $growth, base, weekly$, and $daily$, along with multiplying regression model results with trend factors.
 
 • (iv) Empirical validation during the COVID-19 pandemic in Beijing demonstrates the model's superiority over benchmarks, enabling proactive interventions for COVID-19 control through crowd management.
+
+**Citation**
+
+Please refer to our paper.
+
+```bibtex
+@article{jiang2025data,
+  title={Data-Driven Predictive Modeling of Citywide Crowd Flow for Urban Safety Management: A Case Study of Beijing, China},
+  author={Jiang, He and Zhang, Xuxilu and Dong, Yao and Wang, Jianzhou},
+  journal={Journal of Forecasting},
+  volume={44},
+  number={2},
+  pages={730--752},
+  year={2025},
+  url={\url{https://doi-org.recursos.biblioteca.upc.edu/10.1002/for.3216}}
+  publisher={Wiley Online Library}
+}
