@@ -77,6 +77,6 @@ Please refer to our paper.
   number={2},
   pages={730--752},
   year={2025},
-  url={\url{https://doi-org.recursos.biblioteca.upc.edu/10.1002/for.3216}}
+  url={\url{https://doi-org.recursos.biblioteca.upc.edu/10.1002/for.3216}},
   publisher={Wiley Online Library}
 }
